@@ -277,12 +277,6 @@ fi
 
 log "END"
 ```
-
-# Data link (Regression with tabular gemstone price dataset) 
-```bash
-https://www.bing.com/search?q=regression+with+tabular+gemstone+price+dataset+kaggle&gs_lcrp=EgZjaHJvbWUqBwgAEEUYwgMyBwgAEEUYwgMyBwgBEEUYwgMyBwgCEEUYwgMyBwgDEEUYwgMyBwgEEEUYwgMyBwgFEEUYwgMyBwgGEEUYwgMyBwgHEEUYwgPSAQo4ODE0NDZqMGoxqAIIsAIB&FORM=ANNTA1&PC=U531
-```
-
 ---
 
 ### About the Maintainer
