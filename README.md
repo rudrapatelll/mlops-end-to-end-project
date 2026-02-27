@@ -284,4 +284,4 @@ log "END"
 This project is actively maintained by Rudra Patel, an AI Automation Engineer with 2+ years of professional experience. Rudra specializes in MLOps practices, machine learning engineering, and automation, leveraging skills in Python, SQL, TensorFlow, PyTorch, and Docker.
 
 -   **Email**: patel.rudra@ufl.edu
--   **LinkedIn**: https://www.linkedin.com/in/rudra-patel
+-   **LinkedIn**: https://www.linkedin.com/in/rudrapatell26/
